@@ -1,0 +1,41 @@
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe.config
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.pdb
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Form1.resources
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Properties.Resources.resources
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.GenerateResource.cache
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.exe
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.pdb
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.SignUp.resources
+C:\Users\Jinan\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.MainForm.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.MainForm.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Properties.Resources.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.SignUp.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.GenerateResource.cache
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.exe
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.pdb
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe.config
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.pdb
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.CustomMessageBox_Error_.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.CustomMessageBox_Information_.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.BookItem.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.AuthorItem.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.LoginForm.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.AuthorsInside.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.AuthorsMain.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.HomePage.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.MyBooks.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.AdminPanel.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.FavBooks.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.MySpace.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.View.UserControls.Overdue.resources
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.ResolveComReference.cache
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jinan\Desktop\SEM V\OOP\PROJECT\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\AxInterop.WMPLib.dll
